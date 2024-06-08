@@ -1,4 +1,5 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvrK_Dx0Pyq0W1R7h-GZkf9BM8Xv6yRmrD27fzDCtxHtrYn3Ubm9xu0XG1uIwJGjPnPlit6K2slwd0DQWtMSTXAtg8WrOUfG1OxOLoajswJE7kZfN5Pw20-CFxqC8oLaqkUM9GMbFiVwcNUezqa6L4ExKz6hZlP0cz_n7gMHQ6Sk1b0dKmT6884X9OsQbU/s320/Aurnab%20das%20(3).png" alt="MasterHead" style="width: 100%;">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" style="width: 100%; height: 200px;">
+
 
 <h1 align="center">Hi 👋, I'm Aurnab Das</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
