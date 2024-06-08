@@ -1,3 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s)")
 <h1 align="center">Hi 👋, I'm Aurnab Das</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
