@@ -1,10 +1,5 @@
-![Banner Image](https://www.canva.com/design/DAGHXy2N4RE/A6QVz65Ghrz2u7Y4iOdk9g/edit?utm_content=DAGHXy2N4RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-<table>
-  <tr>
-    <td>
-      <img src="[https://your-profile-picture-url.com](https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966)" alt="Profile Picture" width="150" style="border-radius:50%"/>
-    </td>
-    <td>
+![Banner Image]([https://www.canva.com/design/DAGHXy2N4RE/A6QVz65Ghrz2u7Y4iOdk9g/edit?utm_content=DAGHXy2N4RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://miro.medium.com/v2/resize:fit:1358/0*wv7TeAlj5oHfZFRa.png))
+
       ## 🌐 Socials:
       [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aurnab_Das) 
       [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aurnabdas990) 
