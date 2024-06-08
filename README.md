@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Aurnab Das</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s)](https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-cartoon-character-working-on-a-computer-vector-png-image_6811038.png)")
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-cartoon-character-working-on-a-computer-vector-png-image_6811038.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurnab990&label=Profile%20views&color=0e75b6&style=flat" alt="aurnab990" /> </p>
 
