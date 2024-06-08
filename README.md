@@ -1,9 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.canva.com/design/DAGHXy2N4RE/A6QVz65Ghrz2u7Y4iOdk9g/edit?utm_content=DAGHXy2N4RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 
 <h1 align="center">Hi 👋, I'm Aurnab Das</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coding-clipart-cartoon-character-working-on-a-computer-vector-png-image_6811038.png"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurnab990&label=Profile%20views&color=0e75b6&style=flat" alt="aurnab990" /> </p>
 
