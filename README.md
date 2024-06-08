@@ -1,3 +1,6 @@
+![Banner Image](https://www.canva.com/design/DAGHXy2N4RE/A6QVz65Ghrz2u7Y4iOdk9g/edit?utm_content=DAGHXy2N4RE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<img src="[https://your-profile-picture-url.com](https://media.licdn.com/dms/image/D5603AQHYUKTyqXaclQ/profile-displayphoto-shrink_200_200/0/1706016232256?e=2147483647&v=beta&t=L6JQimuK5mpgvRJ-cB2kPYRfMZJbJrBT3AELMsL86GA)" alt="Profile Picture" width="150" style="border-radius:50%"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aurnab_Das) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aurnabdas990) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurnab_das_272337197) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Aurnab-Das-1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14259722) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Aurnab_Das) 
